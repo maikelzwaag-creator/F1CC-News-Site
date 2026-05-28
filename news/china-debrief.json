@@ -1,141 +1,17 @@
 
 {
-  "enableVoteDrift": true,
-  "comments": [
-    {
-      "author": "GridGazer",
-      "date": "17 Mar 2026",
-      "text": "Two races, two completely different challenges, and Ferrari solved both like they'd seen the script. Wet chaos in Melbourne, strategic chess in Shanghai — neither fazed Väisänen. The most chilling stat is buried in this article: he's gone from 46 points in 2024 to 165 in 2025 to 57 already this season. This isn't a purple patch, it's a trajectory. The rest of the grid are fighting for second until proven otherwise.",
-      "likes": 198,
-      "dislikes": 23,
-      "replies": [
-        {
-          "author": "TifosiForever",
-          "date": "17 Mar 2026",
-          "text": "And the article is right — no luck involved. Melbourne was survival, Shanghai was a strategic masterclass from the first lap. Starting on hards and having Red Bull panic-copy the strategy under safety car was poetry. Väisänen has now won from pole and from P8. Adaptability wins championships.",
-          "likes": 134,
-          "dislikes": 11,
-          "replies": []
-        }
-      ]
-    },
-    {
-      "author": "Roy2RB4ever",
-      "date": "17 Mar 2026",
-      "text": "Hold on — Roy recovered to P3 after that disastrous pit call and finished just 20 seconds behind Väisänen despite being dropped into traffic on a compound he wasn't set up for. If Red Bull don't copy Ferrari's homework, Roy probably wins that race. The fact he still got a podium from that mess shows the raw pace is there. This article calls it a 'strategic blunder' — it was, but it also proves Red Bull have the fastest one-lap car. Fix the pit wall and Roy is a title contender.",
-      "likes": 112,
-      "dislikes": 34,
-      "replies": [
-        {
-          "author": "SbinnalaEnjoyer",
-          "date": "17 Mar 2026",
-          "text": "Recovering to P3 is nice, but he was 20 seconds down and never threatened the top two. Podium, yes. Victory challenge, no. And the points table doesn't lie: Roy has 15 points, Kevu has 27, Väisänen has 57. 'Raw pace' without execution is just noise.",
-          "likes": 87,
-          "dislikes": 8,
-          "replies": []
-        },
-        {
-          "author": "quarter_defender",
-          "date": "17 Mar 2026",
-          "text": "Roy can take pole and still end up 20 seconds behind because the team can't execute. Kevu started P4, finished P2, never put a wheel wrong. That's the difference between a points machine and a headline generator. The championship table doesn't care about 'would have won.'",
-          "likes": 76,
-          "dislikes": 12,
-          "replies": []
-        }
-      ]
-    },
-    {
-      "author": "CachinhoPressure",
-      "date": "17 Mar 2026",
-      "text": "Ferrari have 57 points. Väisänen has 57 points. Cachinho has zero. The constructors' lead is built entirely on one car. If Cachinho doesn't score in Suzuka, VCARB will overtake them with two consistent drivers. This article says the title is Ferrari's to lose, but it's more fragile than it looks. One DNF for Väisänen and the whole thing collapses.",
-      "likes": 148,
-      "dislikes": 17,
-      "replies": [
-        {
-          "author": "scuderia_suffering",
-          "date": "17 Mar 2026",
-          "text": "The points table is stark: Cachinho P17, zero points, six penalty points. Keisner has 16 in an Audi. Swansson has 2 in a Haas. The Ferrari second seat is currently the worst-performing car on the grid. Something has to change.",
-          "likes": 93,
-          "dislikes": 4,
-          "replies": []
-        }
-      ]
-    },
-    {
-      "author": "Zwart_Horse_187",
-      "date": "18 Mar 2026",
-      "text": "Mercedes is mentioned once in this entire article — to point out Vandesteene's yo-yoing form. Zwart has 12 points, P11 in the championship. The car that looked so strong in pre-season testing and won in Melbourne's wet is now firmly in the midfield. If Suzuka doesn't deliver a turnaround, the 'fast but inconsistent' label will be permanent.",
-      "likes": 94,
-      "dislikes": 13,
-      "replies": [
-        {
-          "author": "SilverArrowsFan",
-          "date": "18 Mar 2026",
-          "text": "The points table shows how close the midfield is: Aygen 16, Keisner 16, Maradöner 15, Springfield 14. Mercedes should be leading that group, not buried in it. China was a write-off, but Suzuka has to be a reset. Zwart was matching Väisänen's pace in Melbourne before the puncture — that speed hasn't vanished.",
-          "likes": 56,
-          "dislikes": 5,
-          "replies": []
-        }
-      ]
-    },
-    {
-      "author": "AudiRising",
-      "date": "18 Mar 2026",
-      "text": "Keisner has 16 points. That's more than Roy, Zwart, Verhaeren, and both Haas drivers combined. From a team that scored 136 points all last season. The article says Ferrari's lead is real, but so is Audi's arrival. Keisner's last-to-P5 drive is the kind of result that builds a team's identity. They're not just here to participate anymore.",
-      "likes": 137,
-      "dislikes": 8,
-      "replies": [
-        {
-          "author": "FourRingsOrBust",
-          "date": "18 Mar 2026",
-          "text": "And he's P6 in the championship — equal on points with Aygen, ahead of Maradöner and Roy. The Audi project is no longer a curiosity, it's a midfield threat. If Hicks can start scoring too, they'll be fighting Williams for best of the rest.",
-          "likes": 68,
-          "dislikes": 2,
-          "replies": []
-        }
-      ]
-    },
-    {
-      "author": "SpringfieldStan",
-      "date": "19 Mar 2026",
-      "text": "Springfield has 14 points from two races in an Aston Martin that wasn't expected to be quick, and she led the Chinese GP on merit before the spin. The article mentions the 'fight behind Ferrari is wide open' and then lists Kevu and Roy before her. She's P9 in the standings but driving like a top-five talent. Aston's Honda PU is a genuine asset — give her a clean weekend and she's on the podium.",
-      "likes": 81,
-      "dislikes": 7,
-      "replies": [
-        {
-          "author": "DNF_Fakt",
-          "date": "19 Mar 2026",
-          "text": "She's carrying that team. Fakt has zero points and zero completed laps. If Aston want constructors' points, they need both cars finishing. Springfield is doing the work of two drivers right now.",
-          "likes": 62,
-          "dislikes": 3,
-          "replies": []
-        }
-      ]
-    },
-    {
-      "author": "FaktLap1Legend",
-      "date": "19 Mar 2026",
-      "text": "Everyone obsessing over Väisänen's 57 points while Sam Fakt has successfully preserved his engine, tyres, and chassis for the entire season so far. Zero wear, zero penalties, zero mistakes — pure efficiency. The championship isn't decided in March. The GOAT is playing 4D chess while these mortals scrap for points.",
-      "likes": 16,
-      "dislikes": 178,
-      "replies": [
-        {
-          "author": "DNF_Fakt",
-          "date": "19 Mar 2026",
-          "text": "He crashed into a wall on lap one. In China. There is no tactical engine preservation. There is only a wrecked car. I am begging you to watch the race.",
-          "likes": 142,
-          "dislikes": 5,
-          "replies": []
-        }
-      ]
-    },
-    {
-      "author": "ChaosReigns",
-      "date": "20 Mar 2026",
-      "text": "The points table tells the story: Väisänen 57, Kevu 27, Zhao 19, Vandesteene 18, Aygen 16, Keisner 16, Maradöner 15, Roy 15. The championship leader has double the points of second place. The midfield from P3 to P8 is separated by 4 points. Ferrari are running away with it, and everyone else is in a knife fight for scraps. Suzuka needs to deliver a shake-up or this season is over before it started.",
-      "likes": 113,
-      "dislikes": 6,
-      "replies": []
-    }
-  ]
+    "kicker": "China GP Debrief",
+    "section": "2026 Season",
+    "tags": [
+        "F1",
+        "Chinese GP",
+        "Debrief",
+        "2026 Season",
+        "Ferrari"
+    ],
+    "title": "China debrief: Ferrari's early lead looks more real with every lap",
+    "meta": "Published: 17 March 2026 | By Lena Müller, Strategy Analyst | F1CC News",
+    "image": "images/ChinaGP Winner.png",
+    "caption": "Ferrari celebrates after Shanghai.",
+    "body": "<p>Let’s rewind to lap 4, turn 14. The safety car is out. Sam Fakt and Wesley Vandesteene are already out of the race. Jason Roy leads from pole on softs. Red Bull see Eetu Väisänen’s Ferrari on hard tyres and decide to copy the offset. They pit Roy for hards under the safety car, sacrificing track position to align their compound with the championship leader. The front‑right wheel gun sticks — but that’s not the real story. The real story is the decision itself: Red Bull chased Ferrari’s window and fell straight into a trap that had been set before the race began. The alternative? Stay out on softs, keep track position, and accept a shorter first stint with a later offset onto mediums. The cost of getting it wrong was a podium, maybe a victory. Shanghai was decided in that phase. Here’s how Ferrari turned a strategic gamble into a 15.9‑second chasm — and why the championship picture is already bending in their direction.</p>\n\n<h2>Two Races, Two Different Puzzles Solved</h2>\n<p>Two races into 2026, the most important thing about Ferrari’s start is not that Väisänen has won again. It is that the team has now won in two radically different strategic windows. Melbourne was a weather‑ravaged test of survival and opportunism — a race where covering the crossover from wets to intermediates meant reading rain clouds, not tyre deg curves. Shanghai was the opposite: a cold, precise strategic puzzle that demanded patience, perfect pit‑wall calls, and the nerve to stick with a contrarian compound choice. Ferrari solved both without flinching. In Melbourne, they covered the wet‑tyre phase through the puncture cascade by pitting Väisänen on lap 31, the exact moment the deluge returned. In Shanghai, they set an offset that no one else dared match, starting on hards and letting the field burn through softs and mediums while they waited. Those are the traits that decide championships — not individual grands prix, but the ability to read completely different decision trees and emerge ahead both times.</p>\n\n<h2>The Red Bull Mistake That Handed Ferrari Control</h2>\n<p>If Shanghai provided Ferrari with a strategic masterclass, it also exposed a critical misjudgement in the Red Bull pit wall — not the sticky wheel gun, but the logic that sent Roy down the pit lane in the first place. Red Bull saw Väisänen’s hard‑tyre start and concluded that the prime compound was the race‑winning window. With a safety car compressing the field, they believed they could sacrifice track position, bolt on the same compound, and use Roy’s superior starting position to hunt Väisänen down later. In effect, they tried to copy Ferrari’s homework — and misread the entire phase.</p>\n\n<p>What Red Bull underestimated was that Ferrari had built their whole race around that tyre choice. Väisänen was fuelled and set up to maximise a long first stint, and the safety car simply accelerated a plan already in motion. Roy, by contrast, had been running softs, had not banked any stint length, and his stop dropped him into traffic on a compound he had not prepared for. The strategic initiative handed itself to Maranello on a plate, and Red Bull spent the rest of the afternoon fighting a race they had already lost. It was an error, plain and simple — a misread of the offset that a team of Red Bull’s calibre should not be making. The what‑if is haunting: if Roy had stayed out, he would have led into the first round of stops with a clean track‑position advantage, and the soft‑to‑medium window would have been covered with a shorter, later stop. Could he have held off Väisänen’s hard‑tyre extension? Perhaps not. But he would have made Ferrari fight for it. Instead, the race was handed away at the first branch point.</p>\n\n<h2>No Lucky Breaks Required</h2>\n<p>The most sobering detail for the rest of the grid is that Ferrari have not needed a single slice of fortune. Melbourne’s rain might have scrambled the order, but Väisänen’s victory there was built on the same pillars as Shanghai: strong qualifying when it mattered, intelligent tyre management, and a pit wall that read the phases better than anyone else. In dry conditions and wet, in sprints and feature races, the scarlet cars have simply looked the most organised operation on the grid — and that consistency is the tell of a team that is covering every window, not just reacting to what appears in front of them.</p>\n\n<p>Shanghai also reminded everyone that the fight behind Ferrari remains wide open. Quarter Kevu’s second‑place finish gave VCARB another serious result and kept him 30 points adrift in the standings — a gap that is already larger than the one between himself and fourteenth‑placed Riley Swansson. Jason Roy’s podium, salvaged from the strategic blunder, keeps him only eighth in the championship on 15 points, level with the damaged Alpine of Michiii MaraDöner. Zhao Lei’s home‑race fourth moved him to third with 19 points, but the 38‑point chasm to the leader is the real story. Wesley Vandesteene, after a brilliant P2 in Melbourne, followed it with a first‑lap lock‑up and retirement — exactly the kind of yo‑yoing form that cannot sustain a title challenge. Eren Aygen and Robin Keisner share fifth on 16 points, the latter’s last‑to‑fifth heroics marking him as the grid’s most exciting disruptor, built on a two‑stop phase that covered the medium‑to‑hard‑to‑soft window perfectly.</p>\n\n<h2>The Comfort Zone</h2>\n<p>If there is still a question hanging over the early season, it is whether anyone can force Ferrari to race outside their comfort zone. Can Red Bull translate one‑lap pace into sustained pressure without tripping over their own strategy? Can VCARB turn Kevu’s consistency into a genuine threat? Can Mercedes stop haemorrhaging points through errors and penalties? Right now, the answer to all of these is a firm no. And after Shanghai, that answer feels even firmer than it did after Melbourne.</p>\n\n<p>Ferrari are not unbeatable — no team is — but they have built a lead that allows them to lose a round and still lead comfortably. That is the luxury of a team that has started the season not just fast, but smart. The paddock heads to Suzuka with upgrades promised across the grid, but the mountain everyone must now climb has already grown tall. Here’s the question that should keep every other team principal awake: what if Ferrari haven’t even shown their full hand yet? Two races in, the 2026 title is theirs to lose — and every phase they cover only makes that lead more real.</p>"
 }
