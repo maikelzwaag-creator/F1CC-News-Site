@@ -1,8 +1,19 @@
 window.stories = {};
 
+function withCacheBust(url) {
+  const separator = url.includes('?') ? '&' : '?';
+  return `${url}${separator}v=${Date.now()}`;
+}
+
+async function fetchFresh(url) {
+  return fetch(withCacheBust(url), {
+    cache: 'no-store'
+  });
+}
+
 window.loadStories = async function() {
   try {
-    const listRes = await fetch('news/');
+    const listRes = await fetchFresh('news/');
     const text = await listRes.text();
     
     const regex = /href=(?:"|')([^"']+\.json)(?:"|')/gi;
@@ -21,7 +32,7 @@ window.loadStories = async function() {
     if (jsonFiles.length === 0) {
       console.log('Directory listing blocked, falling back to index.json');
       try {
-        const fallback = await fetch('news/index.json');
+        const fallback = await fetchFresh('news/index.json');
         if (fallback.ok) {
           const keys = await fallback.json();
           keys.forEach(k => jsonFiles.push(k.endsWith('.json') ? k : k + '.json'));
@@ -31,7 +42,7 @@ window.loadStories = async function() {
     
     const promises = jsonFiles.map(async (file) => {
       const key = file.replace('.json', '');
-      const res = await fetch(`news/${file}`);
+      const res = await fetchFresh(`news/${file}`);
       if (res.ok) {
         window.stories[key] = await res.json();
       }
