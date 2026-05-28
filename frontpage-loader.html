@@ -1,23 +1,28 @@
 <script>
+  function parseFrontPageDate(meta) {
+    const m = (meta || '').match(/Published:\s*(\d+)\s+(\w+)\s+(\d{4})/);
+    if (!m) return new Date(0);
+    return new Date(m[2] + ' ' + m[1] + ', ' + m[3]);
+  }
+
   async function initFrontPage() {
     await window.loadStories();
     const storiesArray = Object.entries(window.stories).map(([key, story]) => ({ key, ...story }));
 
-    // Define preferred order for front page based on filename or importance
-    const order = ['china-gp', 'season-overview', 'china-fallout', 'ferrari-benchmark', 'japan-preview', 'goodwood', 'liam-ferrari', 'rfk-daytona'];
-    
-    storiesArray.sort((a, b) => {
-        let aIndex = order.indexOf(a.key);
-        let bIndex = order.indexOf(b.key);
-        if (aIndex === -1) aIndex = 999;
-        if (bIndex === -1) bIndex = 999;
-        return aIndex - bIndex;
-    });
+    const f1Stories = storiesArray
+      .filter(s => Array.isArray(s.tags) && s.tags.includes('F1'))
+      .sort((a, b) => parseFrontPageDate(b.meta) - parseFrontPageDate(a.meta));
 
-    const leadStory = storiesArray[0] || {};
-    const topStory1 = storiesArray[1] || {};
-    const topStory2 = storiesArray[2] || {};
-    const teasers = storiesArray.slice(3, 7); // Next 4 stories
+    const otherStories = storiesArray
+      .filter(s => !Array.isArray(s.tags) || !s.tags.includes('F1'))
+      .sort((a, b) => parseFrontPageDate(b.meta) - parseFrontPageDate(a.meta));
+
+    const sorted = [...f1Stories, ...otherStories];
+
+    const leadStory = sorted[0] || {};
+    const topStory1 = sorted[1] || {};
+    const topStory2 = sorted[2] || {};
+    const teasers = sorted.slice(3, 7);
 
     const heroContainer = document.getElementById('hero-container');
     if (heroContainer && leadStory.key) {
