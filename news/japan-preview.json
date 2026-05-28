@@ -1,14 +1,242 @@
+
 {
-    "kicker": "Preview",
-    "section": "Japan GP",
-    "tags": [
-        "Preview",
-        "Japan GP",
-        "F1"
-    ],
-    "title": "Japan preview: Suzuka pressure rises for title contenders",
-    "meta": "Published: 26 March 2026",
-    "image": "images/RB VERH Rolling Bah.jpg",
-    "caption": "Heading to Suzuka",
-    "body": "<p>The Formula 1 circus heads to the iconic Suzuka circuit for Round 3, and the pressure is already mounting rapidly. Known worldwide as a true driver's track, the immensely high-speed and unforgiving nature of Suzuka will test both sheer aero efficiency and absolute driver precision. Red Bull and McLaren are desperate to close the performance gap, but they face a monumental task in halting Ferrari's wave of early momentum.</p>\n           <p>Historically, Suzuka has undeniably been a vital turning point in the championship battle. Over the wildly competitive 2024 and 2025 seasons, we saw top teams completely alter their aerodynamic setups just to cope with the unique demands of the famous \"S\" Curves, the Degners, and the daunting 130R. Eetu Väisänen is currently riding extremely high on a wave of confidence after spectacular, dominant performances in Melbourne and Shanghai, making him the obvious favorite entering the weekend. However, Red Bull's Jason Roy has consistently proven he can extract formidable qualifying pace from the RB22 when pushed to the absolute limit.</p>\n           <p>Weather consistently plays a wild card role in Japan, and teams are already closely monitoring potential heavy rain fronts heading into the weekend from the Pacific. A wet Suzuka race would throw all current strategic tyre projections entirely out the window, giving wildcards like reigning world champion Quarter Kevu or Mercedes' rising star Wesley Vandesteene a prime, golden opportunity to upset the Ferrari establishment and snatch a crucial, momentum-shifting victory.</p>\n<p>Beyond the pure championship permutations, Suzuka always acts as a ruthless evaluator of automotive design. Sector 1, featuring the iconic 'S' Curves, relentlessly punishes any chassis that inherently lacks high-speed front-end bite or suffers from sluggish directional changes. Engineers will be hyper-focused on finding the narrow, elusive setup window that perfectly balances the massive necessary downforce for the sweeping corners against the strict drag-reduction required to defend positions entering the incredibly heavy braking zone at the final chicane.</p>\n           <p>The local Japanese fans have famously unmatched enthusiasm, packing the grandstands from Thursday morning onwards adorned in spectacular, hand-made team gear. Their passionate energy routinely elevates the entire weekend into a massive festival of motorsport. If history is any strict indicator, whoever powerfully conquers the demanding asphalt of Suzuka will confidently carry an immense psychological advantage—and potentially an insurmountable points momentum—deep into the pivotal European leg of the expansive 2026 calendar.</p>"
+  "enableVoteDrift": true,
+  "comments": [
+    {
+      "author": "GridGazer",
+      "date": "26 Mar 2026",
+      "text": "Suzuka is the first track this season that doesn't come with an asterisk. Melbourne was a wet lottery, China was a strategy puzzle. Suzuka is raw pace, high-speed commitment, and zero margin for error. Tanaka's piece nails it: 'Suzuka finds the weak points in a driver's technique faster than any circuit on the calendar.' If that 2006 race programme was right, then by Sunday night we'll know whether Väisänen's Ferrari is a title-winner or just an early front-runner.",
+      "likes": 213,
+      "dislikes": 18,
+      "replies": [
+        {
+          "author": "TifosiForever",
+          "date": "26 Mar 2026",
+          "text": "Ferrari's aero efficiency is the best on the grid. The S-curves and 130R demand exactly what the SF-26 delivers: high-speed stability. Rain or dry, Väisänen has shown he can handle anything. The only thing I'm nervous about is Cachinho — Suzuka punishes mistakes harder than any circuit. He needs a clean weekend or the pressure will be unbearable.",
+          "likes": 134,
+          "dislikes": 11,
+          "replies": [
+            {
+              "author": "CachinhoPressure",
+              "date": "26 Mar 2026",
+              "text": "Suzuka is the worst possible place for a driver already on six penalty points and zero confidence. One snap at Degner, one misjudgment at Spoon, and he's either in the wall or collecting another penalty. If he bins it in FP2, Belacik might not wait until Sunday to make a call. I'm genuinely worried for the guy.",
+              "likes": 97,
+              "dislikes": 8,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Roy2RB4ever",
+      "date": "26 Mar 2026",
+      "text": "This is the weekend Roy reminds everyone why he got promoted. Suzuka is a track that rewards the kind of fearless, attacking driving he's built for. The RB22 has the downforce, and Roy has the qualifying pace — we saw it in China before the pit wall threw it away. If it's dry, expect pole. If it's wet, Roy's no slouch either. The comeback starts here.",
+      "likes": 118,
+      "dislikes": 29,
+      "replies": [
+        {
+          "author": "WrightBackWhereIBelong",
+          "date": "26 Mar 2026",
+          "text": "'Promoted' is an interesting word for leaving the team that won the last two drivers' championships. Wright won 2024 with VCARB, then moved to Red Bull and his form fell off a cliff — 163 points, eighth place. Kevu stayed at VCARB and won the title. Now Roy goes the same route Wright did, and we're supposed to believe it's a step up? If anything, Roy left the proven championship machine for a team that hasn't won a drivers' title since Belacik in 2024. That's not a promotion. That's a downgrade with a nicer logo.",
+          "likes": 94,
+          "dislikes": 12,
+          "replies": [
+            {
+              "author": "Roy2RB4ever",
+              "date": "26 Mar 2026",
+              "text": "Wright had a bad year, sure. But Roy is not Wright. And VCARB's dominance isn't the car — it's Kevu. Put Roy back in the VCARB and he'd do the same. The Red Bull is faster on one lap; we've already seen that. Once we fix the execution, the wins will come.",
+              "likes": 42,
+              "dislikes": 17,
+              "replies": []
+            },
+            {
+              "author": "quarter_defender",
+              "date": "26 Mar 2026",
+              "text": "Thank you. Everyone forgets that the 'senior team' has been a development graveyard while VCARB quietly stacked trophies. Roy moved to a team that hasn't produced a championship challenge in two years and we're calling it a promotion. If he wanted to win, he should have stayed put.",
+              "likes": 68,
+              "dislikes": 5,
+              "replies": []
+            },
+            {
+              "author": "PaddockWhispers",
+              "date": "27 Mar 2026",
+              "text": "He didn't just 'stay put' — the real reason Roy moved to Red Bull is because Lukus Wright wanted his old VCARB seat back. Wright's camp made it clear he was miserable at Red Bull after that 2025 season, and the only way the Red Bull organisation could keep both drivers happy was to shuffle Roy up and bring Wright home. Roy didn't get promoted; he got politely moved aside so the 2024 champ could return to the car he actually wanted. That's not ambition. That's musical chairs.",
+              "likes": 73,
+              "dislikes": 5,
+              "replies": [
+                {
+                  "author": "Roy2RB4ever",
+                  "date": "27 Mar 2026",
+                  "text": "That's pure paddock fanfiction. Roy earned the Red Bull seat on merit — 148 points at VCARB, consistently matching Kevu in qualifying. Wright wanted back because Red Bull's car didn't suit him, not because he pushed Roy out. Don't invent drama.",
+                  "likes": 31,
+                  "dislikes": 14,
+                  "replies": []
+                },
+                {
+                  "author": "SbinnalaEnjoyer",
+                  "date": "27 Mar 2026",
+                  "text": "Whether it's true or not, it perfectly explains why a team that won the last two titles would let a proven points scorer walk. Wright back at VCARB makes sense for everyone except Roy, who got the 'promotion' that was really just a vacancy.",
+                  "likes": 48,
+                  "dislikes": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "author": "SbinnalaEnjoyer",
+          "date": "26 Mar 2026",
+          "text": "You've said 'the comeback starts here' before every race. Roy's car has the pace, but the team hasn't delivered a clean weekend yet. Suzuka has even less margin for pit-stop blunders. If the wheel gun sticks again, he's finishing outside the points again.",
+          "likes": 83,
+          "dislikes": 7,
+          "replies": []
+        },
+        {
+          "author": "quarter_defender",
+          "date": "26 Mar 2026",
+          "text": "Roy can take all the poles he wants. Kevu is still second in the championship, hasn't made a single mistake, and excels in changing conditions. If the rain comes, Kevu's experience wins. The champion knows Suzuka rewards patience, not just bravery.",
+          "likes": 71,
+          "dislikes": 5,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "CachinhoPressure",
+      "date": "26 Mar 2026",
+      "text": "Suzuka is the last place you want to be a driver under pressure. High-speed, no run-off, walls waiting. Cachinho's penalty points and Q1 exits have put him in a position where a single mistake could end his Ferrari career. This weekend is make or break. I don't think he has the mental resilience to survive it.",
+      "likes": 153,
+      "dislikes": 22,
+      "replies": [
+        {
+          "author": "scuderia_suffering",
+          "date": "26 Mar 2026",
+          "text": "Belacik has been patient publicly, but the paddock knows the clock is ticking. If Cachinho doesn't at least make Q2 and finish in the points without penalties, the phone call to Swansson or Rivington might happen before the freight leaves for Bahrain. Suzuka doesn't forgive.",
+          "likes": 89,
+          "dislikes": 5,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "ChaosReigns",
+      "date": "27 Mar 2026",
+      "text": "Suzuka week is always special, but this year feels different. You've got Ferrari trying to cement a dynasty, Red Bull trying to stop shooting themselves, Audi rising, Cachinho on the brink, and the looming threat of rain to scramble everything. Tanaka's piece reads like a history book — and then you get to the Sam Fakt fans in the comments. The contrast is *chef's kiss*.",
+      "likes": 147,
+      "dislikes": 5,
+      "replies": []
+    },
+    {
+      "author": "PaddockInsider",
+      "date": "26 Mar 2026",
+      "text": "The article's historical framing is brilliant. Invoking Prost and Senna, Räikkönen's 2005 charge, and the ghost of the 1992 Williams — it's the kind of heritage writing that reminds you why this track matters. 'The 2026 championship arrives at Suzuka carrying the weight of every season that has turned on this circuit's corners.' If that sentence doesn't give you goosebumps, you're dead inside.",
+      "likes": 112,
+      "dislikes": 6,
+      "replies": [
+        {
+          "author": "GridGazer",
+          "date": "27 Mar 2026",
+          "text": "The difference is, in those legendary years the championship was close coming into Japan. This year, Väisänen already has a 30-point lead. A Ferrari win at Suzuka could push that beyond 40. By the time Europe starts, we could be looking at a procession unless someone steps up now.",
+          "likes": 64,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "Zwart_Horse_187",
+      "date": "26 Mar 2026",
+      "text": "Mercedes need to show up this weekend. After Melbourne's promise and China's disappearance, Suzuka is the perfect track to prove the W17 has genuine pace. High-speed corners are our DNA. If Zwart and Vandesteene are nowhere near the top five, the pre-season testing optimism was a mirage.",
+      "likes": 96,
+      "dislikes": 14,
+      "replies": [
+        {
+          "author": "SilverArrowsFan",
+          "date": "26 Mar 2026",
+          "text": "The article mentions Vandesteene as a potential rain wildcard. After that P2 in Melbourne, he's got the wet-weather chops. But we need dry pace too. Suzuka's first sector will expose any chassis weakness immediately. I'm cautiously optimistic.",
+          "likes": 54,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "AudiRising",
+      "date": "27 Mar 2026",
+      "text": "Keisner is the wildcard nobody is talking about. He's P6 in the championship, drove from last to fifth in China, and hasn't put a foot wrong in race trim. Suzuka demands precision and bravery — exactly his strengths. If the rain throws the strategy out the window, his ability to adapt could net another big result. Audi might just be the surprise of Japan.",
+      "likes": 91,
+      "dislikes": 6,
+      "replies": [
+        {
+          "author": "FourRingsOrBust",
+          "date": "27 Mar 2026",
+          "text": "Keisner's race pace is genuine. His overtaking at the hairpin in China was textbook. Suzuka's esses require total commitment, but he's shown he has that. A top-six in qualifying and a clean race could see him on the podium if the front-runners hit trouble.",
+          "likes": 48,
+          "dislikes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "SpringfieldStan",
+      "date": "27 Mar 2026",
+      "text": "Suzuka is Honda's home. The Aston Martin with that Honda PU is going to get a massive reception, and Springfield has already shown she can lead races. If the car has the aero for sector one, she could be a dark horse for a top-five finish. The Japanese fans would love nothing more than a Honda-powered car on the podium.",
+      "likes": 78,
+      "dislikes": 9,
+      "replies": [
+        {
+          "author": "HondaHypeTrain",
+          "date": "27 Mar 2026",
+          "text": "The emotional boost of racing at Honda's home circuit is real. The PU has been reliable and punchy. Springfield's racecraft is elite, and if the weather turns, her wet-weather skills could put her right in the mix. The spin in China was heartbreaking, but she's bounced back before.",
+          "likes": 45,
+          "dislikes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "FaktLap1Legend",
+      "date": "27 Mar 2026",
+      "text": "Suzuka is the spiritual home of the GOAT. While others worry about aero efficiency and weather, Sam Fakt has been using advanced meditation to become one with the 130R. When he emerges from the garage, he will not merely drive the circuit — he will transcend it. Podium, victory, and F0 championship all in one weekend. 🐐",
+      "likes": 18,
+      "dislikes": 189,
+      "replies": [
+        {
+          "author": "DNF_Fakt",
+          "date": "27 Mar 2026",
+          "text": "He has one finish and one lap-one DNF. If he 'transcends' the circuit, it'll be into the Degner barrier. I just want to see him complete a lap. Any lap. Please.",
+          "likes": 128,
+          "dislikes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "HistoryBuff88",
+      "date": "26 Mar 2026",
+      "text": "That 2006 race programme quote is a gem. 'Suzuka finds the weak points in a driver's technique faster than any circuit on the calendar.' And then Tanaka ties it to Väisänen's current run — it's a beautiful bit of long-form motorsport writing. More heritage pieces like this, please.",
+      "likes": 84,
+      "dislikes": 4,
+      "replies": [
+        {
+          "author": "SennaFan1990",
+          "date": "26 Mar 2026",
+          "text": "The Prost/Senna mention was respectful but I'd love a deeper dive into how those battles changed F1. Still, Tanaka's subtle nod to Jim Clark's wet-weather genius was a nice touch. Suzuka in the rain really does separate the greats from the merely fast.",
+          "likes": 52,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "StatsNerd_26",
+      "date": "26 Mar 2026",
+      "text": "Tanaka's piece points out that Kevu used a Suzuka podium as the foundation for his 2025 title defence. If he does the same this year, the championship might get very interesting. But Väisänen's 57-point haul in two races is a statement. Suzuka could either be his coronation or the moment the cracks start to show.",
+      "likes": 76,
+      "dislikes": 5,
+      "replies": []
+    }
+  ]
 }

@@ -1,14 +1,133 @@
+
 {
-    "kicker": "Analysis",
-    "section": "China GP",
-    "tags": [
-        "Analysis",
-        "Audi",
-        "F1"
-    ],
-    "title": "Robin Keisner's Shanghai charge gives Audi a proper reason to believe",
-    "meta": "Published: 17 March 2026 | F1CC News Race Desk",
-    "image": "images/ADI Keisner Garage.jpg",
-    "caption": "Lead image: Robin Keisner in the Audi garage.",
-    "body": "<p>Few results in the early 2026 season have felt as encouraging as Robin Keisner's fifth place in China. The result carries more weight when you look at the recent path that brought him here: 19th with Alpine in 2024 on 26 points, then 17th with Kick Sauber in 2025 on 67. He started from the back row after qualifying 20th, then worked his way through the field with a clean, committed race that Audi badly needed after a difficult start to the year.</p>\n<p>For a team still trying to establish itself, that kind of performance matters almost as much as outright pace. Keisner was not handed the result. He earned it by staying out of trouble, taking opportunities when they appeared, and keeping the car in the points picture long after most of the midfield had gone home empty-handed.</p>\n<p>The bigger implication is that Audi now have evidence their project can produce something real when everything clicks. Keisner has 16 points after two rounds, and while the team are still chasing consistency, Shanghai showed that the package can be made to work on a Sunday when the driver gets it right.</p>\n<p>It is too early to call it a breakthrough season. But it is no longer fair to call Audi an unknown quantity either. They have a driver who can recover from a poor qualifying session, a points finish to build around, and at least one result that makes the paddock take the project seriously.</p>"
+  "enableVoteDrift": true,
+  "comments": [
+    {
+      "author": "AudiRising",
+      "date": "17 Mar 2026",
+      "text": "From last on the grid to P5. In a manufacturer team that didn't exist two years ago. Keisner has now outscored his entire 2024 tally in two weekends. This isn't a plucky underdog story anymore — this is a legitimate points-scoring operation. The Audi PU is strong, the chassis is improving, and Keisner is driving like a man with nothing to lose and everything to prove. China showed the paddock that this project is for real.",
+      "likes": 178,
+      "dislikes": 11,
+      "replies": [
+        {
+          "author": "FourRingsOrBust",
+          "date": "17 Mar 2026",
+          "text": "The most impressive part? He didn't put a wheel wrong. No penalties, no contact, just clean overtakes and tyre preservation. After the Q1 knockout, a lesser driver would have overdriven. Keisner kept his head and picked off cars one by one. That's maturity far beyond his years.",
+          "likes": 102,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "GridGazer",
+      "date": "17 Mar 2026",
+      "text": "Keisner finished 19th in 2024 with Alpine, 17th last year with Sauber, and now he's dragging an Audi into the top five. The career arc is genuinely wild. Two sprint podiums and a P5 in the race — he's scored more points in two weekends than many midfield drivers will all season. If Audi can sort out their pit stops, he's a regular top-eight threat.",
+      "likes": 134,
+      "dislikes": 7,
+      "replies": [
+        {
+          "author": "PaddockInsider",
+          "date": "17 Mar 2026",
+          "text": "The jump from 67 points in a full 2025 season to 16 already this year shows how much of a difference a works team can make. Keisner was always quick but had no platform. Now he has one, and the results are immediate.",
+          "likes": 67,
+          "dislikes": 4,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "SbinnalaEnjoyer",
+      "date": "17 Mar 2026",
+      "text": "Quiet stat: Keisner finished ahead of both Mercedes, both Williams, both Haas, and one Ferrari in China. From P20. If Audi figure out Saturday, he's a podium regular.",
+      "likes": 115,
+      "dislikes": 6,
+      "replies": [
+        {
+          "author": "MercEngineer",
+          "date": "17 Mar 2026",
+          "text": "Mercedes had a shocker in China, but credit where it's due — Keisner was faster than us on Sunday. That's not something I expected to say in round two.",
+          "likes": 73,
+          "dislikes": 5,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "ChaosReigns",
+      "date": "18 Mar 2026",
+      "text": "Audi's first season as a full works team and their driver is P4 in the championship after two rounds. Above Roy, above Zwart, above Springfield. Absolutely nobody predicted this in pre-season. The Keisner redemption arc is my favourite storyline of 2026.",
+      "likes": 128,
+      "dislikes": 4,
+      "replies": []
+    },
+    {
+      "author": "CachinhoPressure",
+      "date": "18 Mar 2026",
+      "text": "Keisner has 16 points. Cachinho has zero. One drives for Audi in their debut year, the other drives for Ferrari in a race-winning car. Just saying.",
+      "likes": 142,
+      "dislikes": 21,
+      "replies": [
+        {
+          "author": "scuderia_suffering",
+          "date": "18 Mar 2026",
+          "text": "To be fair, Keisner didn't have the entire paddock dissecting his every move. The pressure at Ferrari is different. But yes, the numbers are brutal. Cachinho needs Suzuka to go perfectly.",
+          "likes": 67,
+          "dislikes": 9,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "FaktLap1Legend",
+      "date": "19 Mar 2026",
+      "text": "Keisner's P5 was impressive, but let's not forget Sam Fakt finished P5... in the list of drivers who retired on lap one. The GOAT knows when to conserve energy. China was just a tactical reset.",
+      "likes": 14,
+      "dislikes": 104,
+      "replies": [
+        {
+          "author": "DNF_Fakt",
+          "date": "19 Mar 2026",
+          "text": "Sam Fakt has zero points, zero completed laps in two races, and you're still on this. The dedication is almost admirable. Almost.",
+          "likes": 78,
+          "dislikes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "Zwart_Horse_187",
+      "date": "19 Mar 2026",
+      "text": "Keisner's result highlights Mercedes' problems. Our car was fast in Melbourne but nowhere in China. Meanwhile an Audi — an Audi! — charged through the field to finish fifth. If the team can't get a grip on the car's inconsistency, Keisner might finish ahead of Zwart in the standings.",
+      "likes": 88,
+      "dislikes": 17,
+      "replies": [
+        {
+          "author": "SilverArrowsFan",
+          "date": "20 Mar 2026",
+          "text": "It's one race. China has never been kind to Mercedes. Suzuka is a proper track that suits our philosophy. Let's see where Keisner is after Japan before we start panicking.",
+          "likes": 52,
+          "dislikes": 6,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "Kevu2Wright",
+      "date": "20 Mar 2026",
+      "text": "Keisner's charge from the back was great, but he's benefiting from a chaotic start to the season. Once the grid stabilises and the faster cars sort their issues, those recovery drives will be harder. Impressive, but let's not crown him yet.",
+      "likes": 64,
+      "dislikes": 18,
+      "replies": [
+        {
+          "author": "AudiRising",
+          "date": "20 Mar 2026",
+          "text": "Nobody's crowning him. But when you outperform the car's expected level consistently, it's not just chaos. It's talent.",
+          "likes": 73,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    }
+  ]
 }

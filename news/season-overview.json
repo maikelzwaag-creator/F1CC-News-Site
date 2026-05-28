@@ -1,14 +1,158 @@
+
 {
-    "kicker": "Analysis",
-    "section": "Season Watch",
-    "tags": [
-        "Analysis",
-        "Season Watch",
-        "F1"
-    ],
-    "title": "2026 Season Overview: Two Rounds In",
-    "meta": "Published: 20 March 2026 | F1CC News Editorial",
-    "image": "images/VRB Kevu Rolling BAH.jpg",
-    "caption": "Lead image: 2026 season overview",
-    "body": "<p>Two rapid-fire races into the 2026 season—one incredibly chaotic wet afternoon in Melbourne, and one tactically intricate sprint weekend under the sun in Shanghai—and the broad shape of this exciting new championship is already coming into sharp focus. Ferrari narrowly leads the constructors' standings. Eetu Väisänen dominantingly leads the drivers'. The rest of the grid is scrambling for answers.</p>\n           <h2>The Ferrari Picture</h2>\n           <p>What has been most striking about Ferrari's start is not the wins themselves, but the immense variety of conditions in which they have reliably arrived. Melbourne was a treacherous full-wet race, deeply chaotic and completely reshuffled by dramatic punctures and multiple safety cars. Shanghai was the exact opposite: perfectly dry, deeply strategic, entirely built around tyre offset and precision pit timing. Two completely different endurance tests. The exact same dominant result.</p>\n           <p>The enormous complication, of course, is Afonso Cachinho. Ferrari's heavily scrutinized number two driver has shockingly not scored a single point in either race, has been severely penalised in both sessions of the Chinese weekend, and now precariously sits on six penalty points for the season—along with a formal warning from the n4x stewards already blotted on his record. If Ferrari hopes to maintain their constructor lead, Cachinho desperately needs a clean weekend.</p>\n           <h2>The Challengers and Japan</h2>\n           <p>Quarter Kevu remains the most credible, ever-present threat to Väisänen, and the paddock knows it. The reigning world champion has been relentlessly consistent without being outright dominant. Jason Roy and Red Bull are currently the most incredibly volatile element in the early standings, displaying massive raw pace but lacking the race-day flawless execution of Ferrari. Mercedes came into 2026 carrying genuine optimism after a highly strong end to 2025, and Wesley Vandesteene's incredible Melbourne second place felt like absolute confirmation that the team had arrived as a winning force rather than a mere contender-in-waiting.</p>\n           <p>Suzuka is a driver's circuit in the absolute truest sense: terrifyingly high-speed, utterly unforgiving, and technically demanding in a way that paper simulation performance numbers don't always capture. The deeply anticipated Japanese GP weekend runs from March 27th to 29th, giving teams just enough time to regroup for the challenge. Ferrari have both the aero efficiency and driver to win. Red Bull have heavily shown they can qualify on the front row absolutely anywhere. Whether the next seventeen rounds can organically deliver on the massive promise of that early drama is another thrilling question entirely. The core ingredients, at least, are perfectly in place.</p>\n<p>Two rounds in, the championship is already delivering on its pre-season promise. How long Ferrari can sustain this is the question the rest of the paddock is paying to answer.</p><p>As the intense season progresses, absolute reliability and flawless operational execution on the pit wall will easily become just as vital as pure qualifying speed. Every single championship point is fiercely contested, and the margins for error have vanished completely. The teams that successfully manage internal pressure while continuously pushing aerodynamic development boundaries will undoubtedly be the ones standing triumphantly on the top step of the podium when the season inevitably reaches its dramatic conclusion.</p>"
+  "enableVoteDrift": true,
+  "comments": [
+    {
+      "author": "GridGazer",
+      "date": "20 Mar 2026",
+      "text": "Two races, two completely different scripts, one outcome: Ferrari win. The article nails it — Melbourne was chaos, Shanghai was a strategic chess match, and Ferrari solved both without breaking a sweat. Väisänen has 57 points, more than double second place. The phrase 'their title to lose' isn't hyperbole anymore; it's a warning. Suzuka will test the car's aero efficiency in a way neither Melbourne nor Shanghai did, but if Ferrari ace that too, the championship is effectively over by April.",
+      "likes": 203,
+      "dislikes": 27,
+      "replies": [
+        {
+          "author": "TifosiForever",
+          "date": "20 Mar 2026",
+          "text": "The adaptability is what terrifies me — in the best way. We've seen dominant cars before that only worked in a narrow window. This Ferrari wins in the wet, wins on strategy, wins from pole and from eighth. That's not a fast car; that's a fast team. And the article's point about Cachinho needing a clean weekend is the understatement of the season. He's single-handedly keeping the constructors' fight alive for everyone else.",
+          "likes": 128,
+          "dislikes": 9,
+          "replies": []
+        },
+        {
+          "author": "quarter_defender",
+          "date": "20 Mar 2026",
+          "text": "Ferrari have been flawless, but 'title over by April' is premature. Kevu is 30 points back — that's one DNF and a win swing. The VCARB is the most consistent car on the grid, and Cachinho is an anchor. Ferrari's lead is built on one driver. One reliability issue, one bad qualifying, and it's a different picture.",
+          "likes": 87,
+          "dislikes": 14,
+          "replies": [
+            {
+              "author": "GridGazer",
+              "date": "20 Mar 2026",
+              "text": "Fair point, but Väisänen hasn't put a wheel wrong. No mistakes, no penalties, no off weekends. Until someone forces him into an error, the gap will only grow.",
+              "likes": 64,
+              "dislikes": 3,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author": "CachinhoPressure",
+      "date": "20 Mar 2026",
+      "text": "The fact that this season overview mentions Cachinho's penalty points and formal warning before even discussing Kevu's title challenge says it all. He's no longer a subplot; he's the plot. Six penalty points, zero championship points, two Q1 exits, and a clumsy collision with Swansson. The article calls for a 'clean weekend' in Suzuka — but at this point, just finishing the race without a penalty would feel like progress. How long before Belacik's patience runs out?",
+      "likes": 162,
+      "dislikes": 19,
+      "replies": [
+        {
+          "author": "scuderia_suffering",
+          "date": "20 Mar 2026",
+          "text": "I've defended him, but this article is a reality check. A formal warning from the stewards alongside six penalty points in two weekends? That's not a driver adapting; that's a driver unraveling. Suzuka is a track that punishes mistakes brutally. If he bins it there, Rivington's phone will ring.",
+          "likes": 94,
+          "dislikes": 7,
+          "replies": []
+        },
+        {
+          "author": "HaasPipeline",
+          "date": "21 Mar 2026",
+          "text": "Everyone forgets Cachinho got this seat because he stepped into Haas for Väisänen when Car Fok retired in 2024. Now Väisänen has 57 points and Cachinho has zero. The cycle might complete itself — Swansson is right there, already in the Ferrari ecosystem, quietly scoring points in a backmarker. It's almost too poetic.",
+          "likes": 73,
+          "dislikes": 5,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "Roy2RB4ever",
+      "date": "20 Mar 2026",
+      "text": "The article calls Roy 'the most incredibly volatile element' — accurate but painful. Pole in China, fastest sectors everywhere, yet he's P8 in the standings with 15 points. The recovery to P3 after the pit stop disaster was heroic, but being 20 seconds behind Väisänen at the flag after starting from pole is a gut punch. Red Bull have the speed to fight for wins; they don't have the execution. Suzuka's high-speed nature suits the car. If the pit wall doesn't meddle, Roy can win on merit.",
+      "likes": 118,
+      "dislikes": 21,
+      "replies": [
+        {
+          "author": "SbinnalaEnjoyer",
+          "date": "20 Mar 2026",
+          "text": "Roy's China weekend in a nutshell: P15 in the sprint, pole for the race, pit stop disaster, recovers to P3, finishes 20 seconds behind. That's four different storylines in 48 hours. Entertaining, but not championship material. Consistency beats chaos.",
+          "likes": 81,
+          "dislikes": 6,
+          "replies": []
+        },
+        {
+          "author": "RealityCheck",
+          "date": "21 Mar 2026",
+          "text": "Suzuka is the ultimate test. High-speed corners, no room for error, pit strategy less impactful than Shanghai. If Roy puts it on pole and loses again, the conversation shifts from 'fast but unlucky' to 'fast but can't close'.",
+          "likes": 52,
+          "dislikes": 3,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "AudiRising",
+      "date": "21 Mar 2026",
+      "text": "The article barely mentions Keisner, yet he's P6 in the championship with 16 points — more than Roy, Zwart, and both Mercedes drivers combined in China. From last to P5 was the drive of the season so far. Audi are no longer a 'project for the future'; they're scoring points every weekend and Keisner is a genuine midfield threat. If they can fix their Saturday pace, a podium isn't far away. Suzuka might expose their aero weaknesses, but Keisner's racecraft travels anywhere.",
+      "likes": 131,
+      "dislikes": 6,
+      "replies": [
+        {
+          "author": "FourRingsOrBust",
+          "date": "21 Mar 2026",
+          "text": "Audi's improvement curve is the steepest on the grid. Keisner has 16 points; last season the entire team scored 136. If they keep this trajectory, they'll be fighting Williams for fourth in the constructors' by mid-season. That's an incredible debut year.",
+          "likes": 64,
+          "dislikes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "SpringfieldStan",
+      "date": "21 Mar 2026",
+      "text": "Sarah Springfield is P9 in the standings with 14 points, led a Grand Prix on merit in China, and still can't get a proper mention in these overviews. The article says 'the challengers' are Kevu and Roy, but Springfield has scored more points than half the grid in a car that was supposed to be a midfield also-ran. The Honda PU is a gem, and she's extracting everything from it. If she hadn't spun, we'd be talking about a three-way title fight.",
+      "likes": 92,
+      "dislikes": 8,
+      "replies": [
+        {
+          "author": "DNF_Fakt",
+          "date": "21 Mar 2026",
+          "text": "She's been carrying Aston Martin since 2024. Fakt's zero points and zero completed laps in the feature races don't help — he's only finished the China sprint so far. If the team can give her a reliable second driver or at least a car that lasts, she'll be on the podium regularly. Suzuka's high-speed nature might suit the Honda PU — maybe a dark horse for top five.",
+          "likes": 68,
+          "dislikes": 3,
+          "replies": [
+            {
+              "author": "StatsNerd_26",
+              "date": "21 Mar 2026",
+              "text": "Correction: Fakt did finish the Australian Grand Prix in P11, believe it or not. It was China GP where he crashed out on lap one. So he's only got one opening-lap DNF. Not great, but not the zero-completions narrative some are pushing.",
+              "likes": 34,
+              "dislikes": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FaktLap1Legend",
+      "date": "22 Mar 2026",
+      "text": "Two rounds in, the GOAT remains untested. Zero points, yes, but also zero mistakes that actually mattered. While others are burning tyres, accumulating penalty points, and stressing their engines, Sam Fakt is preserving his equipment for the long game. The season is a marathon, not a sprint. When the others are limping in the summer heat, Fakt will be fresh and ready to strike. 🐐",
+      "likes": 21,
+      "dislikes": 213,
+      "replies": [
+        {
+          "author": "DNF_Fakt",
+          "date": "22 Mar 2026",
+          "text": "He crashed into a wall on lap one in China, and that's after a race in Australia where he did finish but didn't score. The 'preserving equipment' bit would be more convincing if he hadn't already wrecked a chassis. One finish, one crash, zero points — the GOAT narrative needs CPR.",
+          "likes": 156,
+          "dislikes": 4,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "author": "ChaosReigns",
+      "date": "22 Mar 2026",
+      "text": "This overview perfectly captures the absurdity of 2026 so far: Ferrari dominant, Cachinho a disaster, Roy the fastest man on one lap but nowhere in the standings, Keisner a hero, Mercedes oscillating between podium and anonymity, and Sam Fakt fans living in an alternate reality. Suzuka can't come soon enough. This season is a fever dream and I'm fully invested.",
+      "likes": 145,
+      "dislikes": 7,
+      "replies": []
+    }
+  ]
 }
