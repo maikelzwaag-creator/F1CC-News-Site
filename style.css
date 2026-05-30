@@ -1,4 +1,4 @@
-/* === style.css – merged & deduplicated === */
+/* === style.css – Metro edition (hard squares) === */
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;700;800&family=Barlow+Semi+Condensed:wght@700;800&display=swap');
 
 :root {
@@ -13,7 +13,7 @@
   --brand-dark: #b11f1d;
   --accent: #ff514d;
   --shadow: 0 10px 24px rgba(0, 0, 0, 0.28);
-  --radius: 6px;
+  --radius: 0px;
 }
 
 * {
@@ -48,7 +48,7 @@ body.dialog-open {
   gap: 1rem;
   border: 1px solid var(--line);
   border-top: 3px solid var(--brand);
-  border-radius: var(--radius);
+  border-radius: 0;
   background: linear-gradient(180deg, #2f3339 0%, #26292f 100%);
   box-shadow: var(--shadow);
   padding: 0.7rem 1rem;
@@ -85,12 +85,12 @@ body.dialog-open {
   white-space: nowrap;
 }
 
-/* --- navigation (original, not in new block) --- */
+/* --- navigation --- */
 .nav-row {
   margin-top: 0.55rem;
   background: #1f2227;
   border: 1px solid #4c525d;
-  border-radius: var(--radius);
+  border-radius: 0;
   display: flex;
   gap: 0.2rem;
   padding: 0.28rem;
@@ -106,7 +106,7 @@ body.dialog-open {
   letter-spacing: 0.04em;
   font-size: 0.82rem;
   padding: 0.5rem 0.65rem;
-  border-radius: 3px;
+  border-radius: 0;
   border: 1px solid transparent;
   white-space: nowrap;
 }
@@ -133,7 +133,7 @@ body.dialog-open {
   letter-spacing: 0.04em;
   font-size: 0.82rem;
   padding: 0.5rem 0.65rem;
-  border-radius: 3px;
+  border-radius: 0;
   border: 1px solid transparent;
   white-space: nowrap;
 }
@@ -142,7 +142,7 @@ body.dialog-open {
   margin-top: 0.7rem;
   background: #1c1f24;
   color: #fff;
-  border-radius: var(--radius);
+  border-radius: 0;
   overflow: hidden;
   border: 1px solid #4f5662;
 }
@@ -167,12 +167,12 @@ body.dialog-open {
   to { transform: translateX(-50%); }
 }
 
-/* --- hero (original) --- */
+/* --- hero --- */
 .hero {
   margin-top: 0.8rem;
   padding: 1.05rem;
   border: 1px solid var(--line);
-  border-radius: var(--radius);
+  border-radius: 0;
   background: linear-gradient(180deg, #3f444b 0%, #383c43 100%);
   position: relative;
   overflow: hidden;
@@ -208,7 +208,7 @@ body.dialog-open {
   z-index: 2;
 }
 
-/* --- frontpage layout (merged) --- */
+/* --- frontpage layout --- */
 .frontpage {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
@@ -221,7 +221,7 @@ body.dialog-open {
 .feature-card,
 .headline-stack {
   border: 1px solid #6b7380;
-  border-radius: 4px;
+  border-radius: 0;
   background: #2f3339;
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.03);
 }
@@ -264,7 +264,7 @@ body.dialog-open {
   height: auto;
   max-height: 320px;
   object-fit: cover;
-  border-radius: 4px;
+  border-radius: 0;
   border: 1px solid #727b8a;
   display: block;
 }
@@ -313,7 +313,7 @@ body.dialog-open {
 .teaser-card {
   background: #40454c;
   border: 1px solid #6b7380;
-  border-radius: 4px;
+  border-radius: 0;
   padding: 0.8rem;
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.03);
 }
@@ -336,7 +336,7 @@ body.dialog-open {
   color: #d6dce6;
 }
 
-/* --- content layout (original, still needed) --- */
+/* --- content layout --- */
 .content-layout {
   display: grid;
   grid-template-columns: minmax(0, 2.2fr) minmax(260px, 1fr);
@@ -352,11 +352,11 @@ body.dialog-open {
   margin-top: 0;
 }
 
-/* --- article (original) --- */
+/* --- article --- */
 .article {
   background: var(--paper);
   border: 1px solid var(--line);
-  border-radius: var(--radius);
+  border-radius: 0;
   box-shadow: var(--shadow);
   overflow: hidden;
   opacity: 0;
@@ -375,11 +375,11 @@ body.dialog-open {
   }
 }
 
-/* --- panel / article-head (new takes precedence) --- */
+/* --- panel / article-head --- */
 .panel {
   margin-top: 0.75rem;
   border: 1px solid var(--line);
-  border-radius: var(--radius);
+  border-radius: 0;
   background: linear-gradient(180deg, #3f444b 0%, #383c43 100%);
   box-shadow: var(--shadow);
   overflow: hidden;
@@ -399,7 +399,7 @@ body.dialog-open {
 }
 
 .pill {
-  border-radius: 999px;
+  border-radius: 0;
   padding: 0.25rem 0.6rem;
   font-size: 0.74rem;
   font-weight: 800;
@@ -449,7 +449,7 @@ body.dialog-open {
   background: #2a2e35;
   color: #f5f7fc;
   border: 1px solid #666f7c;
-  border-radius: 3px;
+  border-radius: 0;
   padding: 0.35rem 0.55rem;
   font-size: 0.74rem;
   font-weight: 700;
@@ -474,7 +474,7 @@ body.dialog-open {
   place-items: center;
   min-height: 210px;
   margin: 0.5rem 0 0.8rem;
-  border-radius: 4px;
+  border-radius: 0;
   border: 1px dashed #7c8695;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.01)),
@@ -496,7 +496,7 @@ body.dialog-open {
   height: auto;
   max-height: 420px;
   object-fit: cover;
-  border-radius: 4px;
+  border-radius: 0;
   border: 1px solid #727b8a;
 }
 
@@ -508,7 +508,7 @@ body.dialog-open {
   letter-spacing: 0.04em;
 }
 
-/* Additional image slots (original) */
+/* Additional image slots */
 .img-slot {
   display: flex;
   flex-direction: column;
@@ -520,7 +520,7 @@ body.dialog-open {
   width: 100%;
   height: 92px;
   object-fit: cover;
-  border-radius: 4px;
+  border-radius: 0;
   border: 1px solid #727b8a;
 }
 
@@ -537,7 +537,7 @@ body.dialog-open {
   font-size: 0.75rem;
 }
 
-/* New global .img-placeholder (overlay – replaces old version) */
+/* Global .img-placeholder overlay */
 .img-placeholder {
   position: absolute;
   inset: 0;
@@ -551,7 +551,7 @@ body.dialog-open {
   color: rgba(255, 255, 255, 0.7);
 }
 
-/* Article subheadings (merged) */
+/* Article subheadings */
 .article-body h2 {
   margin: 1.05rem 0 0.45rem;
   font-family: "Barlow Semi Condensed", sans-serif;
@@ -577,7 +577,7 @@ body.dialog-open {
   margin: 0.6rem 0;
 }
 
-/* Action buttons (original) */
+/* Action buttons */
 .action-row {
   display: flex;
   flex-wrap: wrap;
@@ -589,7 +589,7 @@ body.dialog-open {
   background: #2a2e35;
   color: #f5f7fc;
   border: 1px solid #666f7c;
-  border-radius: 3px;
+  border-radius: 0;
   padding: 0.35rem 0.55rem;
   font-size: 0.74rem;
   font-weight: 700;
@@ -609,7 +609,7 @@ body.dialog-open {
   text-decoration: none;
   background: #2a2e35;
   border: 1px solid #666f7c;
-  border-radius: 3px;
+  border-radius: 0;
   padding: 0.45rem 0.7rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -620,7 +620,7 @@ body.dialog-open {
   background: #3a4048;
 }
 
-/* --- comments (new) --- */
+/* --- comments --- */
 .comments-wrap {
   margin-top: 1rem;
   border-top: 1px solid var(--line);
@@ -640,7 +640,7 @@ body.dialog-open {
   gap: 0.5rem;
   padding: 0.65rem;
   border: 1px solid #596271;
-  border-radius: 4px;
+  border-radius: 0;
   background: #3a3f46;
 }
 
@@ -648,7 +648,7 @@ body.dialog-open {
 .comment-compose textarea {
   width: 100%;
   border: 1px solid #677182;
-  border-radius: 3px;
+  border-radius: 0;
   background: #2f343b;
   color: #eef2f8;
   font-family: "Barlow", sans-serif;
@@ -676,7 +676,7 @@ body.dialog-open {
 
 .comment-send {
   border: 1px solid #8c383d;
-  border-radius: 3px;
+  border-radius: 0;
   background: #6e2427;
   color: #fff;
   padding: 0.42rem 0.7rem;
@@ -700,7 +700,7 @@ body.dialog-open {
 
 .comment-card {
   border: 1px solid #5e6775;
-  border-radius: 4px;
+  border-radius: 0;
   background: #3a3f47;
   padding: 0.6rem 0.7rem;
 }
@@ -741,7 +741,7 @@ body.dialog-open {
 
 .vote-btn {
   border: 1px solid #6a7382;
-  border-radius: 3px;
+  border-radius: 0;
   background: #2d3239;
   color: #eef3fb;
   font-size: 0.76rem;
@@ -770,7 +770,7 @@ body.dialog-open {
 
 .reply-btn {
   border: 1px solid #6a7382;
-  border-radius: 3px;
+  border-radius: 0;
   background: #2d3239;
   color: #eef3fb;
   font-size: 0.76rem;
@@ -789,7 +789,7 @@ body.dialog-open {
   margin-top: 0.55rem;
   padding: 0.5rem;
   border: 1px solid #596271;
-  border-radius: 4px;
+  border-radius: 0;
   background: #343942;
   display: grid;
   gap: 0.4rem;
@@ -799,7 +799,7 @@ body.dialog-open {
 .reply-compose textarea {
   width: 100%;
   border: 1px solid #677182;
-  border-radius: 3px;
+  border-radius: 0;
   background: #2f343b;
   color: #eef2f8;
   font-family: "Barlow", sans-serif;
@@ -820,7 +820,7 @@ body.dialog-open {
 .reply-send,
 .reply-cancel {
   border: 1px solid #6a7382;
-  border-radius: 3px;
+  border-radius: 0;
   background: #2d3239;
   color: #ffffff;
   font-size: 0.76rem;
@@ -846,7 +846,7 @@ body.dialog-open {
 
 .comment-status {
   border: 1px solid #6b6f29;
-  border-radius: 999px;
+  border-radius: 0;
   padding: 0.16rem 0.45rem;
   font-size: 0.67rem;
   text-transform: uppercase;
@@ -864,11 +864,11 @@ body.dialog-open {
   gap: 0.55rem;
 }
 
-/* --- sidebar (new takes precedence, but keep original structure) --- */
+/* --- sidebar --- */
 .sidebar {
   margin-top: 0.75rem;
   border: 1px solid var(--line);
-  border-radius: var(--radius);
+  border-radius: 0;
   background: linear-gradient(180deg, #424851 0%, #3a3f47 100%);
   box-shadow: var(--shadow);
   overflow: hidden;
@@ -924,7 +924,7 @@ body.dialog-open {
 .side-thumb {
   position: relative;
   margin-top: 0.8rem;
-  border-radius: 3px;
+  border-radius: 0;
   overflow: hidden;
   border: 1px solid #555d69;
 }
@@ -935,13 +935,13 @@ body.dialog-open {
   height: auto;
 }
 
-/* --- dialog (original) --- */
+/* --- dialog --- */
 dialog.news-dialog {
   width: min(980px, calc(100% - 1rem));
   max-height: calc(100vh - 1rem);
   padding: 0;
   border: 1px solid #6b7380;
-  border-radius: 6px;
+  border-radius: 0;
   background: #3f444b;
   color: var(--ink);
   box-shadow: 0 22px 60px rgba(0, 0, 0, 0.55);
@@ -974,7 +974,7 @@ dialog.news-dialog::backdrop {
 
 .dialog-close {
   border: 1px solid #69727f;
-  border-radius: 3px;
+  border-radius: 0;
   background: #2d3138;
   color: #ffffff;
   padding: 0.35rem 0.6rem;
@@ -994,7 +994,7 @@ dialog.news-dialog::backdrop {
 footer {
   margin-top: 0.8rem;
   border: 1px solid var(--line);
-  border-radius: var(--radius);
+  border-radius: 0;
   padding: 0.7rem 0.95rem;
   background: #2d3138;
   font-weight: 600;
@@ -1003,7 +1003,120 @@ footer {
   font-size: 0.9rem;
 }
 
-/* --- responsive (merged) --- */
+/* --- merged from inline snippet (metro) --- */
+
+/* article-head2 / article-body2 — alternate layout from inline snippet.
+   Uses h1 for the headline (vs h3 in the primary layout) and
+   a uniform padding on article-head (0.95rem all sides vs 0.95/0.95/0.75). */
+
+.article-head2 {
+  padding: 0.95rem;
+  border-bottom: 1px solid var(--line);
+  background: linear-gradient(180deg, #4d535c 0%, #434952 100%);
+}
+
+.article-head2 h1 {
+  margin: 0;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+  line-height: 1.02;
+  font-size: clamp(1.65rem, 4vw, 2.5rem);
+}
+
+.article-head2 .label-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.65rem;
+}
+
+.article-head2 .meta {
+  margin-top: 0.55rem;
+  color: #c7cdd7;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.article-body2 {
+  padding: 0.95rem;
+  line-height: 1.55;
+  font-size: 0.98rem;
+  color: #eef2f8;
+}
+
+.article-body2 h2 {
+  margin: 1.05rem 0 0.45rem;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  text-transform: uppercase;
+  font-size: 1.08rem;
+  border-left: 3px solid var(--brand);
+  padding-left: 0.5rem;
+}
+
+.article-body2 p {
+  margin: 0.65rem 0;
+}
+
+.article-body2 .image-card {
+  margin: 0.4rem 0 0.85rem;
+}
+
+/* frontpage grid (canonical definition) */
+.frontpage {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+  gap: 0.8rem;
+  align-items: stretch;
+  position: relative;
+  z-index: 2;
+}
+
+/* image-card – updated object-fit rule */
+.image-card img {
+  display: block;
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: 0;
+  border: 1px solid #727b8a;
+}
+
+/* back-link – snippet had border-radius: 3px; zeroed for metro */
+.back-link {
+  display: inline-flex;
+  margin-top: 0.9rem;
+  color: #fff;
+  text-decoration: none;
+  background: #2a2e35;
+  border: 1px solid #666f7c;
+  border-radius: 0;
+  padding: 0.45rem 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.back-link:hover {
+  background: #3a4048;
+}
+
+/* side-thumb – snippet had border-radius: 3px; zeroed for metro */
+.side-thumb {
+  position: relative;
+  margin-top: 0.8rem;
+  border-radius: 0;
+  overflow: hidden;
+  border: 1px solid #555d69;
+}
+
+.side-thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* --- responsive --- */
 @media (max-width: 980px) {
   .content-layout {
     grid-template-columns: 1fr;

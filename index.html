@@ -13,6 +13,7 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 
+	<style>#sidebar-container .sidebar { margin-top: 0; }</style>
 </head>
 <body>
 	<main class="site-shell">
@@ -57,37 +58,6 @@
 
 		<div class="content-layout">
 			<section class="front-teasers" id="teasers-container"></section>
-
-<!--
-			<aside class="sidebar" aria-label="More stories">
-				<div class="sidebar-head">More Headlines</div>
-				<section class="side-block">
-					<h4 class="side-title">Latest Updates</h4>
-					<ul class="side-list">
-						<li>JackTEF set for FW14B drive at Goodwood while F1 is out of town</li>
-						<li>Ferrari approach to Liam Dela Cruz reportedly rejected after retirement</li>
-						<li>RFK Racing says all four Fords had race-winning speed at Daytona 500</li>
-					</ul>
-					<div class="img-slot side-thumb">
-						<img src="images/Fer EV Garage.jpg" alt="News headline image 1">
-						<div class="img-placeholder">Sidebar image slot 1</div>
-					</div>
-				</section>
-
-				<section class="side-block">
-					<h4 class="side-title">Latest On Track</h4>
-					<ul class="side-list">
-						<li>China GP fallout: paddock turns attention to strategy and penalties</li>
-						<li>Japan preview: Suzuka pressure rises for title contenders</li>
-						<li>Ferrari's championship lead becomes the paddock benchmark</li>
-					</ul>
-					<div class="img-slot side-thumb">
-						<img src="images/RB Roy Garage.png" alt="News headline image 2">
-						<div class="img-placeholder">Sidebar image slot 2</div>
-					</div>
-				</section>
-			</aside>
--->
 			<div id="sidebar-container"></div>
 		</div>
 
@@ -148,16 +118,26 @@
             </div>
             <div class="headline-stack" aria-label="Top headlines">
                 ${topStory1.key ? `<a class="headline-link" href="article.html?story=${topStory1.key}">
-                    <div class="headline-kicker">${topStory1.kicker || 'Top Story'}</div>
-                    <h3>${topStory1.title}</h3>
-                    <p style="color: #b0b8c4; font-size: 0.85rem; margin-bottom: 0.3rem;">${topStory1.meta}</p>
-                    <p style="color: #d6dce6; font-size: 0.9rem; line-height: 1.4;">${extractSnippet(topStory1.body)}</p>
+                    <div style="display: flex; gap: 0.65rem; align-items: flex-start;">
+                        <div style="flex: 1; min-width: 0;">
+                            <div class="headline-kicker">${topStory1.kicker || 'Top Story'}</div>
+                            <h3>${topStory1.title}</h3>
+                            <p style="color: #b0b8c4; font-size: 0.85rem; margin-bottom: 0.3rem;">${topStory1.meta}</p>
+                            <p style="color: #d6dce6; font-size: 0.9rem; line-height: 1.4;">${extractSnippet(topStory1.body)}</p>
+                        </div>
+                        <img src="${topStory1.image}" alt="${topStory1.title}" style="width: 90px; height: 70px; object-fit: cover; flex-shrink: 0; border: 1px solid #727b8a;">
+                    </div>
                 </a>` : ''}
                 ${topStory2.key ? `<a class="headline-link" href="article.html?story=${topStory2.key}">
-                    <div class="headline-kicker">${topStory2.kicker || 'Analysis'}</div>
-                    <h3>${topStory2.title}</h3>
-                    <p style="color: #b0b8c4; font-size: 0.85rem; margin-bottom: 0.3rem;">${topStory2.meta}</p>
-                    <p style="color: #d6dce6; font-size: 0.9rem; line-height: 1.4;">${extractSnippet(topStory2.body)}</p>
+                    <div style="display: flex; gap: 0.65rem; align-items: flex-start;">
+                        <div style="flex: 1; min-width: 0;">
+                            <div class="headline-kicker">${topStory2.kicker || 'Analysis'}</div>
+                            <h3>${topStory2.title}</h3>
+                            <p style="color: #b0b8c4; font-size: 0.85rem; margin-bottom: 0.3rem;">${topStory2.meta}</p>
+                            <p style="color: #d6dce6; font-size: 0.9rem; line-height: 1.4;">${extractSnippet(topStory2.body)}</p>
+                        </div>
+                        <img src="${topStory2.image}" alt="${topStory2.title}" style="width: 90px; height: 70px; object-fit: cover; flex-shrink: 0; border: 1px solid #727b8a;">
+                    </div>
                 </a>` : ''}
             </div>
         </div>`;

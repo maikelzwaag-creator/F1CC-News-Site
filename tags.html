@@ -109,19 +109,19 @@
         }
     }
 
-    let html = `<article class="article"><header class="article-head"><h1>Stories tagged with: ${tag}</h1></header><div class="article-body">`;
+    let html = `<article class="article"><header class="article-head"><h1 style="font-size: 1.170rem !important; font-weight: 700; letter-spacing: 0.04em;">Stories tagged with: ${tag}</h1></header><div class="article-body">`;
     
     if (matchingStories.length > 0) {
         html += `<ul style="list-style: none; padding: 0;">`;
         matchingStories.forEach(s => {
             html += `
-                <li style="margin-bottom: 2rem; border-bottom: 1px solid var(--line); padding-bottom: 1rem;">
+                <li style="margin-bottom: 1rem; border-bottom: 1px solid var(--line); padding-bottom: 0.65rem;">
                     <a href="article.html?story=${s.key}" style="text-decoration: none; color: inherit;">
-                        <div style="display: flex; gap: 1rem; align-items: flex-start;">
-                            <img src="${s.image}" alt="${s.title}" style="width: 150px; height: 100px; object-fit: cover; border-radius: 4px;">
+                        <div style="display: flex; gap: 0.65rem; align-items: flex-start;">
+                            <img src="${s.image}" alt="${s.title}" style="width: 90px; height: 60px; object-fit: cover; border-radius: 0; flex-shrink: 0;">
                             <div>
-                                <h3 style="margin: 0 0 0.5rem 0;">${s.title}</h3>
-                                <p style="margin: 0; font-size: 0.9rem; color: #cfd6df;">${s.meta}</p>
+                                <h3 style="margin: 0 0 0.25rem 0; font-size: 0.85rem;">${s.title}</h3>
+                                <p style="margin: 0; font-size: 0.75rem; color: #cfd6df;">${s.meta}</p>
                             </div>
                         </div>
                     </a>
