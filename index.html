@@ -593,6 +593,42 @@
 			letter-spacing: 0.03em;
 		}
 
+    /* Nav link shared style */
+    .nav-link {
+      color: #eef1f7;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-family: 'Barlow Semi Condensed', sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      font-size: 0.82rem;
+      padding: 0.5rem 0.65rem;
+      border-radius: 3px;
+      border: 1px solid transparent;
+      white-space: nowrap;
+    }
+    .nav-link:hover { background: #2e333b; }
+
+    /* Fictional time — same style as nav links, no hover effect */
+    .fic-clock {
+      display: inline-flex;
+      margin-left: auto;
+      gap: 0;
+      align-items: center;
+      opacity: 0.85;
+    }
+    .fic-clock span {
+      color: #eef1f7;
+      text-transform: uppercase;
+      font-family: 'Barlow Semi Condensed', sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      font-size: 0.82rem;
+      padding: 0.5rem 0.65rem;
+      border-radius: 3px;
+      border: 1px solid transparent;
+      white-space: nowrap;
+    }
 		.side-block {
 			padding: 0.8rem 0.9rem;
 			border-bottom: 1px solid #58606d;
@@ -699,6 +735,20 @@
     <img src="images/F1CC Header.png" alt="F1CC News" style="width: 20%; max-width: 1080px; height: auto; display: block;">
 </a>
           <div class="tagline">Independent Formula 1 Coverage | 2026 Edition</div>
+      <!-- Fictional time clock -->
+        <div class="fic-clock">
+          <span id="fic-date">--.--.----</span>
+          <span id="fic-time">--:--</span>
+        </div>
+</div>
+
+<script src="fictional-time.js"></script>
+<script>
+  FictionalTime.start({
+    dateEl: 'fic-date',
+    timeEl: 'fic-time',
+  });
+</script>
         </header>
         <nav class="nav-row" style="margin-top: 0.55rem; background: #1f2227; border: 1px solid #4c525d; border-radius: var(--radius); display: flex; gap: 0.2rem; padding: 0.28rem; overflow-x: auto;">
           <a class="nav-link active" href="index.html" style="color: #eef1f7; text-decoration: none; text-transform: uppercase; font-family: 'Barlow Semi Condensed', sans-serif; font-weight: 700; letter-spacing: 0.04em; font-size: 0.82rem; padding: 0.5rem 0.65rem; border-radius: 3px; border: 1px solid transparent; white-space: nowrap;">Home</a>
@@ -713,8 +763,7 @@
 
 		<div class="ticker-wrap" aria-label="news ticker">
 			<div class="ticker">
-				<span>Live Desk</span>Vaisanen extends championship lead after Shanghai strategy masterclass<span>Update</span>Cachinho now on six penalty points after China incidents<span>Paddock</span>Kevu linked with VCARB seat as junior programme decision looms<span>Live Desk</span>Vaisanen extends championship lead after Shanghai strategy masterclass<span>Update</span>Cachinho now on six penalty points after China incidents<span>Paddock</span>Kevu linked with VCARB seat as junior programme decision looms
-			</div>
+<span>Live Desk</span>Väisänen leads championship by 30 points after Shanghai strategy masterclass<span>Update</span>Cachinho now on six penalty points — how serious is the warning for Ferrari?<span>Paddock</span>Goodwood Festival to host star‑studded F1 gathering next weekend<span>Silly Season</span>A chance meeting at Goodwood? Keisner and TEF both on the guest list<span>Live Desk</span>Cachinho receives formal FIA warning after separate China incidents<span>Update</span>Mercedes tension simmers after Zwart's post‑China debrief<span>Paddock</span>Mercedes brings engine upgrades to Suzuka — customer teams set to benefit<span>Silly Season</span>Ferrari's approach to a former champion — and the response that surprised the paddock			</div>
 		</div>
 
 		<section class="hero" id="hero-container"></section>
@@ -761,6 +810,12 @@
 	</main>
 	<script src="stories.js"></script>
   <script src="sidebar.js"></script>
+
+
+
+
+
+
 
 <script>
   function extractSnippet(html) {
